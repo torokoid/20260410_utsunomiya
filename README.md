@@ -751,9 +751,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは、Happy Vibes Playlist 2026 💞🎵| Best Acoustic Cover Love Song 2026 | Comethru, Heather, Forever Young</span></h2>
+<h2><span class="yellow">今日のBGMは、Top Songs Cover HotHit Pop Playlist 🎙✨ 2026 | Velu Music Vol.4</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/94B-y-RCH44?si=HqSu4OBzeqqNq7xS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8s3aS_Fl1U?si=9Kg3XmXHBfOn3AIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 <!--
